@@ -7,7 +7,7 @@
 	* `pip install Aeromiko`
 * (opt) `grep` to obtain list of IPs from Aerohive
 * (opt) `awk` to filter said list for duplicates
-* list of all IPs (see below if you need help)
+* list of all IPs (see below if you need help) (example list found in this repository)
 * SSH username and pw
 
 ## Setting up
